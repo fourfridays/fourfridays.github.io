@@ -15,4 +15,4 @@ The mosque has a finished ground floor. With the growing number of Muslim worshi
 </div>
 
 ###Goal
-Our goal is to raise $100,000 by end of Summer 2015.
+Our goal is to raise $100,000 by the end of Summer 2015.
