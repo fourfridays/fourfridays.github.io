@@ -5,7 +5,7 @@ permalink: /fundraising/
 ---
 
 ###Project Description
-The mosque has a finished ground floor. With the growing number of Muslim worshippers attending the mosque we have undertaken a fundraising project to build the second and third floor.
+The ICEK has a finished ground floor. With the growing number of Muslim worshippers prayers and social activities, ICEK has undertaken a fundraising project to build the second and third floor.
 
 <div class="thumbnail">
   <img src="/images/fundraising/secondFloor-1.jpg" alt="Second floor structure of the masjid" />
