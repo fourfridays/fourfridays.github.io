@@ -110,6 +110,9 @@ header {
         border-right: 2px solid #eee;
         margin: 5px 6px 0;
         padding-top: 12px;
+        &:last-child {
+          display: none;
+        }
       }
     }
     button {
