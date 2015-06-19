@@ -42,17 +42,17 @@ $font-family-serif:       "Droid Serif", serif;
 $font-family-base:        $font-family-sans-serif;
 
 $headings-font-family:    $font-family-serif;
-$headings-font-weight:    700;
+$headings-font-weight:    300;
 
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-h1 {font-size: $font-size-h1;}
-h2 {font-size: $font-size-h2;}
-h3 {font-size: $font-size-h3;}
-h4 {font-size: $font-size-h4;}
-h5 {font-size: $font-size-h5;}
-h6 {font-size: $font-size-h6;}
+h1 {font-size: $font-size-h1; font-weight: $headings-font-weight;}
+h2 {font-size: $font-size-h2; font-weight: $headings-font-weight;}
+h3 {font-size: $font-size-h3; font-weight: $headings-font-weight;}
+h4 {font-size: $font-size-h4; font-weight: $headings-font-weight;}
+h5 {font-size: $font-size-h5; font-weight: $headings-font-weight;}
+h6 {font-size: $font-size-h6; font-weight: $headings-font-weight;}
 
 body {
   font-family: $font-family-sans-serif;
