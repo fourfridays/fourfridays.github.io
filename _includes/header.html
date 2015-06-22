@@ -2,16 +2,15 @@
   <div class="container">
     <div class="row">
       <div class="col-xs-12 col-md-5">
-        <div class="imgContainer pull-left">
+        <div class="imgContainer">
           <a href="/" title="Islamic Center of Emporia"><img src="/images/islamiccenterLogo.png" alt="Islamic Center Logo" width="72px"/></a>
         </div>
         <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
       </div>
       
-      <nav class="col-xs-12 col-md-7">
-        <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QB6XD4BKEKS84"><button type="button" class="btn btn-primary btn-sm pull-right">Make a Donation</button></a>
-
-        <ul class="pull-right">
+      <nav class="col-xs-12 col-md-7" role="navigation">
+        <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QB6XD4BKEKS84"><button type="button" class="btn btn-primary btn-sm">Make a Donation</button></a>
+        <ul>
           {% for page in site.pages %}
             {% if page.title %}
               <li><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
