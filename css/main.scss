@@ -95,16 +95,21 @@ header {
     padding: 16px 6px 6px;
     position: relative;
     bottom: 5px;
+    float: left;
   }
   nav {
     margin-top: 6px;
     a {
       text-decoration: none;
+      button {
+        float: right;
+      }
     }
     ul {
       list-style: none;
       clear: both;
       margin-top: 10px;
+      float: right;
     }
     li {
       float: left;
@@ -161,6 +166,32 @@ footer {
     }
     img {
       width: 62px;
+    }
+  }
+}
+
+@media (min-width: 728px) and (max-width: 991px) {
+  header {
+    .imgContainer {
+      float: none;
+      text-align: center;
+      img {
+        width: 62px;
+      }
+    }
+    h1 {
+      float: none;
+      text-align: center;
+      left: 0;
+      top: 0;
+      font-size: 24px;
+      margin: 0;
+    }
+    nav {
+      ul { 
+        float: left;
+        margin: -30px 98px;
+      }
     }
   }
 }
