@@ -18,15 +18,15 @@ The ICEK has a finished ground floor. With the growing number of Muslim worshipp
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img src="/images/fundraising/icek-outside-1.jpg" alt="Front outside view of the Islamic Center">
+      <img src="/images/fundraising/icek-outside-1.jpg" alt="Side outside view of the Islamic Center">
       <div class="carousel-caption">
-        Front outside view of the Islamic Center
+        Side outside view of the Islamic Center
       </div>
     </div>
     <div class="item">
-      <img src="/images/fundraising/icek-outside-2.jpg" alt="Side outside view of the Islamic Center">
+      <img src="/images/fundraising/icek-outside-2.jpg" alt="Front outside view of the Islamic Center">
       <div class="carousel-caption">
-        Side outside view of the Islamic Center
+        Front outside view of the Islamic Center
       </div>
     </div>
     <div class="item">
