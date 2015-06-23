@@ -51,5 +51,5 @@ The ICEK has a finished ground floor. With the growing number of Muslim worshipp
 ###Goal
 Our goal is to raise $100,000 by the end of Summer 2015.
 
-###How to Donate Online
-<a href="/docs/fundraising-donation-invitation-in-arabic.pdf" title="Fundraising Donation Invitation in Arabic"><button class="btn btn-primary">Donation Instructions in Arabic</button></a>
+###How to Donate Online كيف ترسل تبرعاتك عبر النت؟
+<a href="/docs/fundraising-donation-invitation-in-arabic.pdf" title="Fundraising Donation Invitation in Arabic"><button class="btn btn-primary">Donation Instructions in Arabic إضغط هنا</button></a>
