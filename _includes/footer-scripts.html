@@ -1,2 +1,13 @@
+<div id="scotch-panel">
+  <ul>
+    {% for page in site.pages %}
+      {% if page.title %}
+        <li><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<script src="/global/js/scotchPanels.min.js"></script>
+<script src="/global/js/main.js"></script>
