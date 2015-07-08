@@ -9,6 +9,7 @@ permalink: /ramadan/
   <small>Qur’an 2: 183</small>
 </blockquote>
 
+##Lailatu Al-qadr
 Remember that Lailatu Al-qadr is expected to occur during one of these days.This is just a reminder that we have started our night prayers program as follows for the last ten days of Ramadan:
 
 * Iqamah for Isha prayer starts immediately after Azan time.
@@ -19,6 +20,7 @@ Remember that Lailatu Al-qadr is expected to occur during one of these days.This
 
 This program will allow members who are studying or working early morning to take some rest, have their suhur, and be an active member in society.  May Allah accept from all of us. Ameen
 
+##Ramadan Schedule
 <p class="text-center">
   <a href="/docs/ramadan-prayer-schedule.pdf" title="Ramadan Prayer Schedule">
     <button class="btn btn-primary">Ramadan Prayer Schedule</button>
