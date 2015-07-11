@@ -7,6 +7,3 @@ $('#scotch-panel').scotchPanel({
   distanceX: '70%',
   enableEscapeKey: true
 });
-                
-
-                
