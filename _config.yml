@@ -1,12 +1,10 @@
 # Site settings
 title: Islamic Center of Emporia
-email: your-email@domain.com
+email: salim53@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+   O People of the Book (Jews and Christians): Come to a word (in good terms) that is just between us and you, that we worship none but God (alone)
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://islamiccenteremporia.org" # the base hostname & protocol for your site
+url: "http://www.islamiccenteremporia.org" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
