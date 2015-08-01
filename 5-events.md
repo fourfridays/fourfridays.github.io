@@ -4,4 +4,4 @@ title: Events
 permalink: /events/
 ---
 
-Currently no events scheduled.
+Monthly dinners First Saturday of every month. This is a potluck style dinner where everyone is encouraged to bring a dish.
