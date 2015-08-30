@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Membership Thank You
 permalink: /membership-thankyou/
 ---
 
