@@ -6,7 +6,7 @@
           <a href="/" title="Islamic Center of Emporia"><img src="/images/islamiccenterLogo.png" alt="Islamic Center Logo" width="72px"/></a>
           <a class="toggle-panel" href="#"><i class="fa fa-bars fa-lg"></i></a>
         </div>
-        <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+        <h1><a onClick="ga('send', 'event', { eventCategory: 'Template Link', eventAction: '{{ site.title }}'});" href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
       </div>
       
       <nav class="col-xs-12 col-md-7" role="navigation">
