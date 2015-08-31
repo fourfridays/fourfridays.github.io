@@ -11,7 +11,7 @@ Please use one of the following options to pay your membership dues.
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="L5AMGFHX7ZEVJ">
 <table>
-<tr><td><input type="hidden" name="on0" value="Annual Membership">Annual Membership</td></tr><tr><td><select name="os0">
+<tr><td><input type="hidden" name="on0" value="Annual Membership"><strong>Annual Membership</strong></td></tr><tr><td><select name="os0">
 	<option value="Family">Family $150.00 USD</option>
 	<option value="Individual">Individual $75.00 USD</option>
 </select> </td></tr>
