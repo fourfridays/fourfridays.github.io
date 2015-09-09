@@ -13,7 +13,7 @@ permalink: /membership/
 <div id="mc_embed_signup">
 <form action="//islamiccenteremporia.us11.list-manage.com/subscribe/post?u=91b21d0a3aef9ad1da2fc23b6&amp;id=1c115500ce" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe to our mailing list</h2>
+	<h2>Membership Registration</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-FNAME">First Name  <span class="asterisk">*</span>
