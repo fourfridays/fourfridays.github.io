@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /membership/
+permalink: /membership-payment/
 ---
 
 Your annual membership payment helps for the maintenance and upkeep of the Islamic Center.
