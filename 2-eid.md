@@ -11,6 +11,6 @@ September 15, 2015 (Tuesday) is the 1st day of Dhul Hijjah 1436. The day of Araf
 
 Following its adopted current criteria for Eidul Adha, the Fiqh Council of North America follows the Hajj authorities' announcement of the day of ‘Arafah. Eidul Adha is on the day following the day of Arafah.
 
-http://www.isna.net/fiqh-council-of-north-americas-announcement-of-eid-al-adha-14362015.html
+<a href="http://www.isna.net/fiqh-council-of-north-americas-announcement-of-eid-al-adha-14362015.html">http://www.isna.net/fiqh-council-of-north-americas-announcement-of-eid-al-adha-14362015.html</a>
 
 May accept from all of us. Ameen
