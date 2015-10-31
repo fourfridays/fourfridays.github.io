@@ -6,6 +6,9 @@ permalink: /fundraising/
 
 The ICEK has a finished ground floor. With the growing number of Muslim worshippers prayers and social activities, ICEK has undertaken a fundraising project to build the second and third floor.
 
+<strong>Fundraising Dinner</strong>
+Mark your calendars for the Fundraising Dinner on November 7th at 6:00PM.  Sisters will be at the Masjid and the brothers at Guest House. [Fundraising Dinner Flyer](/docs/icek-fundraising-dinner.pdf).
+
 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators">
