@@ -7,7 +7,7 @@ permalink: /fundraising/
 The ICEK has a finished ground floor. With the growing number of Muslim worshippers prayers and social activities, ICEK has undertaken a fundraising project to build the second and third floor.
 
 <strong>Fundraising Dinner</strong>
-Mark your calendars for the Fundraising Dinner on November 7th at 6:00PM.  Sisters will be at the Masjid and the brothers at Guest House. [Fundraising Dinner Flyer](/docs/icek-fundraising-dinner.pdf).
+We will hold a fundraising dinner Saturday, April 2nd, 2016 starting early. Time will be announced soon.
 
 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
@@ -49,9 +49,6 @@ Mark your calendars for the Fundraising Dinner on November 7th at 6:00PM.  Siste
     <span class="sr-only">Next</span>
   </a>
 </div>
-
-###Goal
-Our goal is to raise $100,000 by the end of Summer 2015.
 
 ###How to Donate Online كيف ترسل تبرعاتك عبر النت؟
 <a href="/docs/fundraising-donation-invitation-in-arabic.pdf" title="Fundraising Donation Invitation in Arabic"><button class="btn btn-primary">Donation Instructions in Arabic إضغط هنا</button></a>
