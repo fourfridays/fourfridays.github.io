@@ -4,13 +4,11 @@ title: Events
 permalink: /events/
 ---
 
-<strong>Monthly dinner</strong> is last Saturday of every month after Maghreb prayers.
+<!--<strong>Monthly dinner</strong> is last Saturday of every month after Maghreb prayers.
 
 <strong>Islamic school</strong> for boys and girls start after Maghreb prayers every Friday.
 
-<strong>Tea party and study circle</strong> after Isha prayers every Friday.
-
-
+<strong>Tea party and study circle</strong> after Isha prayers every Friday.-->
 
 <strong>Quran Study Program</strong>
 Immediately after Asr prayer daily, members will gather to study and/or recite a memorized surah of their choice. A sign-up sheet will be provided on the first day of Ramadan.
