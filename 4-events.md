@@ -11,6 +11,7 @@ permalink: /events/
 <strong>Tea party and study circle</strong> after Isha prayers every Friday.-->
 
 <strong>Eid Al-fitr Announcement</strong>
+
 We will be celebrating Eid inshallah on Wednesday, July 6th, 2016 at 9am in the Islamic Center of Emporia. Brothers will be using the space downstairs and the sisters will be using the space upstairs and downstairs on the sisters side for those who may have trouble with stairs.
 
 We will have a potluck style breakfast as usual. So, please bring a dish to join in the breakfast after Eid prayer.
