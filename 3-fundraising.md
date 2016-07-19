@@ -50,5 +50,5 @@ We will hold a fundraising dinner Saturday, April 2nd, 2016 starting early. Time
   </a>
 </div>
 
-###How to Donate Online كيف ترسل تبرعاتك عبر النت؟
+### How to Donate Online كيف ترسل تبرعاتك عبر النت؟
 <a href="/docs/fundraising-donation-invitation-in-arabic.pdf" title="Fundraising Donation Invitation in Arabic"><button class="btn btn-primary">Donation Instructions in Arabic إضغط هنا</button></a>
