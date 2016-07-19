@@ -4,7 +4,7 @@ title: Resources
 permalink: /resources/
 ---
 
-###North American Islamic&nbsp;Organizations
+### North American Islamic&nbsp;Organizations
 
 <p><a href="http://nait.net">http://nait.net/</a></p>
 
