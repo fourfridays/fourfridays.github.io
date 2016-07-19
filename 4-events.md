@@ -4,16 +4,10 @@ title: Events
 permalink: /events/
 ---
 
+No events.
+
 <!--<strong>Monthly dinner</strong> is last Saturday of every month after Maghreb prayers.
 
 <strong>Islamic school</strong> for boys and girls start after Maghreb prayers every Friday.
 
 <strong>Tea party and study circle</strong> after Isha prayers every Friday.-->
-
-<strong>Eid Al-fitr Announcement</strong>
-
-We will be celebrating Eid inshallah on <strong>Wednesday, July 6th, 2016 at 9am</strong> in the Islamic Center of Emporia. Brothers will be using the space downstairs and the sisters will be using the space upstairs and downstairs on the sisters side for those who may have trouble with stairs.
-
-We will have a potluck style breakfast as usual. So, please bring a dish to join in the breakfast after Eid prayer.
-
-Eid Mubarak in advance and remember to give your Zakat Al-fitr before day of Eid. The amount is $8.00 per person in each family.
