@@ -4,10 +4,8 @@ title: Events
 permalink: /events/
 ---
 
-No events.
-
-<!--<strong>Monthly dinner</strong> is last Saturday of every month after Maghreb prayers.
+<strong>Monthly dinner</strong> is last Saturday of every month after Maghreb prayers.
 
 <strong>Islamic school</strong> for boys and girls start after Maghreb prayers every Friday.
 
-<strong>Tea party and study circle</strong> after Isha prayers every Friday.-->
+<strong>Tea party and study circle</strong> after Isha prayers every Friday.
