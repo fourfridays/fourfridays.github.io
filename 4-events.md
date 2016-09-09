@@ -3,7 +3,7 @@ layout: page
 title: Events
 permalink: /events/
 ---
-<strong>Eid</strong>
+<strong>Eid</strong><br>
 ISNA has officially announced: "Following its adopted current criteria for Eidul Adha, the Fiqh Council of North America announces that the final determination of the date of Eidul Adha will be <strong>Monday, September 12, 2016</strong>".
 
 Thus, we will be observing fasting on the day of Arafat on Sunday, September 11th. Community Iftar in the form of a potluck will be held at the Masjid. 
