@@ -14,7 +14,7 @@ Your donations are tax-deductible and a reciept can be provided upon request.
 
 <!-- 16:9 aspect ratio -->
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=-k_8FPPGOf4"></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/-k_8FPPGOf4"></iframe>
 </div>
 
 ### How to Donate Online كيف ترسل تبرعاتك عبر النت؟
