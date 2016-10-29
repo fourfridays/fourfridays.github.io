@@ -4,50 +4,17 @@ title: Fundraising
 permalink: /fundraising/
 ---
 
-The ICEK has a finished ground floor. With the growing number of Muslim worshippers prayers and social activities, ICEK has undertaken a fundraising project to build the second and third floor.
+The Islamic Center of Emporia (ICEK) is pleased to invite you to our final phase project to remodel the third floor. As you may know, the ICEK’s membership is no longer sufficient to cover the monthly expenses of the masjid. These expenses cost $7,000 a month and include: water, electricity, gas, phone, and insurance. Thus, the executive committee of the masjid has decided to raise funds to remodel the third floor and secure a modest income to cover the monthly expenses. Thus, as members of an Islamic community and the only one in Emporia, we must seize this golden opportunity to give our perpetual charity (sadakah jariya) to support the Islamic center.
 
-<strong>Fundraising Dinner</strong>
-We will hold a fundraising dinner Saturday, April 2nd, 2016 starting early. Time will be announced soon.
+Our goal is to raise $40,000 by the end of the year.
 
-<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-  <!-- Indicators -->
-  <ol class="carousel-indicators">
-    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
-  </ol>
+All donations are gathered under the name of the Islamic Center of Emporia. Please donate by cash, check payable to Islamic Center of Emporia, or online.
 
-  <!-- Wrapper for slides -->
-  <div class="carousel-inner" role="listbox">
-    <div class="item active">
-      <img src="/images/fundraising/icek-outside-1.jpg" alt="Side outside view of the Islamic Center">
-      <div class="carousel-caption">
-        Side outside view of the Islamic Center
-      </div>
-    </div>
-    <div class="item">
-      <img src="/images/fundraising/icek-outside-2.jpg" alt="Front outside view of the Islamic Center">
-      <div class="carousel-caption">
-        Front outside view of the Islamic Center
-      </div>
-    </div>
-    <div class="item">
-      <img src="/images/fundraising/secondFloor-1.jpg" alt="Second floor structure of the Islamic Center">
-      <div class="carousel-caption">
-        Second floor structure of the Islamic Center
-      </div>
-    </div>
-  </div>
+Your donations are tax-deductible and a reciept can be provided upon request.
 
-  <!-- Controls -->
-  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
+<!-- 16:9 aspect ratio -->
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="//youtu.be/-k_8FPPGOf4"></iframe>
 </div>
 
 ### How to Donate Online كيف ترسل تبرعاتك عبر النت؟
