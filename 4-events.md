@@ -3,8 +3,8 @@ layout: page
 title: Events
 permalink: /events/
 ---
-## Ramadan Announcement
-* The first night for Taraweeh Prayers will be on Sunday, May 5, 2019 after Isha.
-* Zakat Al-Fitr is $12 per person must be paid before Eid Al-Fitr prayer. Please pay early to allow enough time if you expect ICEK to distribute.
-* The last blessed odd nights of Ramadan begin on Saturday, May 25, 2019.
-* Eid Al-Fitr will be on Tuesday, June 4, 2019, Insha’Allah.
+## Eid Announcement
+
+Thursday May 13, 2021 is the first day of Shawwal and, thus, the day of Eid-ul-Fitr. Brothers in the ICEK masjid have agreed to have Eid prayer at 9:00AM sharp. After prayer, there will be a potluck breakfast, insha'Allah.
+
+MAKE SURE TO PAY YOUR ZAKAT AL-FITR BEFORE EID PRAYER!!!
